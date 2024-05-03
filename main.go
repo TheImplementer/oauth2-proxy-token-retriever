@@ -9,7 +9,6 @@ import (
 )
 
 func main() {
-
 	cookieValue := os.Args[0]
 
 	sessionOptions := &options.SessionOptions{
